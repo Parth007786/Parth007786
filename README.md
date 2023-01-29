@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Parth Mehta, I am a Finance Professional, I have worked in NFBC's Muthoot Finance LTD.(Gold loan comapany) I have a work experience of 1.9 years. Now I am looking forward with my career as a Developer or as a Web Development position. 
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, REACT JS, PYTHON, DJANGO, MS EXCEL, MS WORD, MS POWERPOINT.
-- 🌱 I’m currently learning REACT JS, JAVASCRIPT and Working on Projects such as TIC TAC TOE, SNAKE and FRUIT mobile game.
+- 👋 Hi, I’m Parth Mehta, I am a Finance Professional, Past working experience was in NFBC's Muthoot Finance LTD.(Gold loan comapany), and IIFL gols loan, with a experience 2 years. Now I am looking forward with my career as a Web Development position. 
+- 👀 I have a working knowledge of HTML, CSS, JAVASCRIPT, PYTHON, DJANGO, MS EXCEL, MySQL, MS WORD, MS POWERPOINT.
+- 🌱 I’m currently learning  Angular JS, React and React DOM JS.
+- 🌱 I’m currently working on various projects: My-Portfolio, Snake-Mania, Tic-Tac-Toe, real life example of Cloning Netflix as FunMixture, and Building a ChatBot as Jarvis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via LINKEDIN Profile www.linkedin.com/in/parth-mehta-a35771a4.
 
