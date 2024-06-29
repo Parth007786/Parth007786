@@ -1,12 +1,69 @@
-- 👋 Hi, I’m Parth Mehta, I am a Finance Professional, Past working experience was in NFBC's Muthoot Finance LTD.(Gold loan comapany), and IIFL gold loan, with a experience 2 years. Now I am looking forward with my career as a Web Development position. 
-- 👀 I have a working knowledge of HTML, CSS, JAVASCRIPT, PYTHON, DJANGO, MS EXCEL, MySQL, MS WORD, MS POWERPOINT.
-- 🌱 I’m currently learning React, Nextjs, Nodejs, MongoDB.
-- 🌱 I’m currently working on various projects: My-Portfolio, Snake-Mania, Tic-Tac-Toe, real life example of Cloning Ecommerce website like Amazon and Flipkart, and built a chatbot as AXL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via LINKEDIN Profile www.linkedin.com/in/parth-mehta-a35771a4.
-- As soon as my projects are completed, I will share and make my projects live here so as to get a great opportunity ahead.
+# Welcome to My GitHub Profile
 
-<!---
-Parth007786/Parth007786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Hello! I'm Parth, and I'm excited to share my journey and projects with you. Here's a bit about my background and how I transitioned into the field of Information Technology.
+
+## Education
+
+- **Bachelor of Business Administration (BBA)**
+- **Master of Business Administration (MBA) in Finance and Systems**
+
+## Professional Experience
+
+### Muthoot Finance Limited
+**Position:** Junior Relationship Executive  
+**Duration:** 02/2020 - 10/2021  
+In this role, I developed strong sales and customer relationship skills while working in the finance sector. My responsibilities included managing client accounts, providing financial advice, and driving sales growth.
+
+### IIFL Finance Ltd.
+**Position:** Audit Officer  
+**Duration:** 04/2022 - 07/2022  
+As an Audit Officer, I was responsible for auditing financial statements and ensuring compliance with regulations. This role involved extensive travel, which ultimately led me to reconsider my career path.
+
+## Transition to Information Technology
+
+After gaining valuable experience in the finance industry, I realized that my true passion lies in technology and coding. The decision to switch careers was driven by my desire for a fulfilling job that I would love and enjoy.
+
+### Eskills Web
+**Position:** Intern  
+**Duration:** 07/2023 - Present  
+Starting my IT career at Eskills Web has been a transformative experience. The supportive environment here has helped me gain deep insights into coding and web development. My colleagues have been instrumental in guiding me through errors and challenges, making this journey both fun and educational.
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python
+- **Frameworks and Libraries:** React, Node.js, Django, Express, MongoDB, MySQL
+- **Tools and Technologies:** Git, Docker, Socket.io.
+- **Soft Skills:** Strong analytical skills, problem-solving, adaptability, and teamwork.
+
+## Learning
+
+I am currently learning the MERN stack (MongoDB, Express, React, Node.js) to further enhance my web development skills. 
+
+## Projects
+
+I have uploaded 7 projects on GitHub related to the MERN stack. Here are a few highlights:
+
+### Feedback App
+**Description:** Feedback given to make sure that how much popular something is.
+**Technologies Used:**  React, Javascript, Bootstrap.
+
+### SIP Calculator
+**Description:** Small Investment made to check the ROI after few years at a given rate of return.
+**Technologies Used:** Javascript, React, Bootstrap.
+
+### Crud Operation
+**Description:** Create, Remove, Update and Delete operation on a Todo using Context for the State management.
+**Technologies Used:** Javascript, React, Bootstrap
+
+Feel free to explore my repositories to see more of my work.
+
+## Contact Me
+
+I'm always open to connecting with like-minded professionals and exploring new opportunities. You can reach me at:
+
+- **Email:** parthmehtapimr1618@gmail.com
+- **LinkedIn:** www.linkedin.com/in/parth-mehta-a35771a4
+
+Thank you for visiting my GitHub profile!
